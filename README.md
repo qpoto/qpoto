@@ -1,2 +1,2 @@
 My name is Stanislav! 
-Welcome! :blush:
+\n\r Welcome! :blush:
